@@ -34,13 +34,3 @@ Grading policy for the homework: 5 for correct implementation of a direct-mapped
 You should submit your source file(s) to the Blackboard dropbox. Your code should compile with the gcc on pi. If it requires any command-line parameters passed to gcc when compiling, specify them in the comment box in Blackboard when you make your submission.
 
 **NB: you must demonstrate** your working homework to me in order to receive a grade. This must happen within a week of the homework submission deadline. There will be classes set aside for demo sessions.
-
-* * *
-
-Example input 1: [here](hw03input). Example output 1: [here](hw03output).  
-
-Example input 2: [here](hw03input2). Example output 2: [here](hw03output2).  
-
-Example input 3: [here](hw03input3). Example output 3: [here](hw03output3).  
-
-Example input 4: [here](hw03input4). Example output 4: [here](hw03output4).
